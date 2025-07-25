@@ -93,12 +93,12 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-text</artifactId>
-            <version>1.10.0</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>com.github.binarywang</groupId>
             <artifactId>weixin-java-pay</artifactId>
-            <version>3.3.9.B</version>
+            <version>tmp-build-20250512.032409</version>
         </dependency>
     </dependencies>
 
